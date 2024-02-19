@@ -1,4 +1,4 @@
-# InstallHavoc on Kali
+# Install Havoc on Kali
 
 #### Git 
 git clone https://github.com/HavocFramework/Havoc.git  
